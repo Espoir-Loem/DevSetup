@@ -1,10 +1,21 @@
 # PROJET 1.1:
 
-> Ce projet est le Premier Environnement Dev chez Akieni Academy 
+> Ce `README.md` projet est le Premier Environnement Dev chez Akieni Academy 
 
 ## pourtant sur:
 
 Installer tous les outils nécessaires et créer votre premier repo GitHub.
+
+---
+## comment utiliser le repo
+
+pour utiliser ce ropository nous vour suivre ces étapes:
+
+1. Cloner le repo sur votre machine locale.
+2. ouvrer dans un editeur de code (vscode recommandé)
+
+---
+
 
 ## Livrables
 
